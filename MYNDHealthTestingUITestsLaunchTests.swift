@@ -2,7 +2,7 @@
 //  MYNDHealthTestingUITestsLaunchTests.swift
 //  MYNDHealthTestingUITests
 //
-//  Created by aarushi shah on 6/27/23.
+//  Worked with aarushi shah 
 //
 
 import XCTest
